@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 449ef817e8d0444479414368aeae09a0
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - TradeGothic LT
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: c116b887fa3564d2cbf3b28f4909eaab, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
